@@ -82,4 +82,4 @@ Tarihler datetime formatına dönüştürülerek zaman analizleri yapılmıştı
 Grafikler yorumlarla birlikte açıklanmış ve anlamlandırılmıştır.
 
 👩‍💻 Geliştirici
-Bu proje eğitim amaçlı hazırlanmıştır. Geliştirici: [Merve Mizrakli]
+Bu proje eğitim amaçlı hazırlanmıştır. Geliştirici: [MerveMizrakli]
